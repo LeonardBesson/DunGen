@@ -11,7 +11,7 @@ Customizable parameters :
   - Normal Distribution :
     - Standard deviation
     - Mean
-    - Threshold used deferenciate rooms from cells (For example, if you want that your rooms get generated from the 90th percentile values of the normal distribution, choose N(0, 1) with a threshold of 1.65)
+    - Threshold used to differentiate rooms from cells (For example, if you want your rooms to get generated from the 90th percentile values of the normal distribution, choose N(0, 1) with a threshold of 1.65)
   - Size of rooms & cells
   - Orientation of rooms & cells
   - Width/height ratio of rooms & cells
